@@ -14,4 +14,6 @@
     <color name="color_on_background">#000000</color>
     <color name="color_status_bar">#000000</color>
 
+    <color name="transparent">#000000FF</color>
+
 </resources>

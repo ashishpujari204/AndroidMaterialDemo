@@ -14,4 +14,5 @@
     <color name="color_background">#000000</color>
     <color name="color_on_background">#FFFFFF</color>
 
+    <color name="transparent">#000000FF</color>
 </resources>
